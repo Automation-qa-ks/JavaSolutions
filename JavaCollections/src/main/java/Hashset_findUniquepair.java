@@ -10,7 +10,7 @@ public class Hashset_findUniquepair {
 
         for(int i=0;i<size;i++)
         {
-
+System.out.println("enter value pairs");
             String input=sc.nextLine();
             all.add(sc.nextLine());
 
